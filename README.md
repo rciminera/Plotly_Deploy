@@ -25,21 +25,21 @@ The HTML and Javascript code used to present the webpage are in the following fi
 [charts.js](https://github.com/rciminera/Plotly_Deploy/blob/main/Static/js/charts.js)
 
 
-I. Demographic Info
+#### I. Demographic Info
 
 A table of demographic data is presented for the test subject with key information such as gender, age, and location.
 
-II. Top 10 Bacteria Cultures
+#### II. Top 10 Bacteria Cultures
 
 A horizontal bar chart shows the number of observations for each of top 10 bacteria identified for each individual in descending order by occurence.
 
 More information about each data point is obtained by hovering over a bubble.
 
-III. Washing Frequency
+#### III. Washing Frequency
 
 A gauge chart is available to indicate the frequency of washing per week.
 
-IV. Bacteria Cultures per Sample
+#### IV. Bacteria Cultures per Sample
 
 A bubble chart is presented to show all bacteria by occurrence for the selected test subject.
 
