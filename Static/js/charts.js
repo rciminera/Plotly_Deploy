@@ -159,7 +159,7 @@ d3.json("Data/samples.json").then((data) => {
     
 // Create the layout for the gauge chart.
   var gaugeLayout = { 
-      // width: 600, 
+      width: 500, 
       height: 450, 
       margin: { t: 0, b: 0 } 
   };
