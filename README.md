@@ -46,8 +46,9 @@ A bubble chart is presented to show all bacteria by occurrence for the selected 
 Finally, some customizations were made to make the webapge more useful including:
 
 1. image was added to the jumbotron
+2. font size and color changed on the jumbotron
 2. an earth color pallet was added to the bubble chart  
-3. A chart
+3. title was added to the bubble chart y axis
 
 
 ## Summary
